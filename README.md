@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript/Node.js/Rust projects**
 
-- 📝 I regularly write articles on [https://wevek.com](https://wevek.com)
+- 📝 I regularly write articles on [https://wevek.com](https://wevek.com) , will be live soon.
 
 - 💬 Ask me about **Node.js, JavaScript, TypeScript, MongoDB, TypeORM, React, D3.js, Express**
 
