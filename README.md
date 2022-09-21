@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">Copy Ninja who loves coding new things</h3>
+<h3 align="center">Copy Ninja, loves learning and coding new things.</h3>
 
 <img align="right" alt="focusing" width="400" src="https://i.pinimg.com/originals/b1/92/cd/b192cd052ffe5871b8b236abaa836c78.gif">
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Innovations**
 
-- 🌱 I’m currently learning **Rust, CockroachDB**
+- 🌱 I’m currently learning **Three.js, Rust, CockroachDB**
 
-- 👯 I’m looking to collaborate on **Rust/JavaScript/Node.js projects**
+- 👯 I’m looking to collaborate on **JavaScript/Node.js/Rust projects**
 
 - 📝 I regularly write articles on [https://wevek.com](https://wevek.com)
 
